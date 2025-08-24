@@ -17,6 +17,25 @@ export const remoteFeatures: Dictionary<number> = {
     Features.MotorHead |
     Features.MotorPillow |
     Features.MotorFeet,
+  BURM:
+    Features.PresetFlat |
+    Features.PresetMemory1 |
+    Features.PresetMemory2 |
+    Features.PresetTV |
+    Features.PresetZeroG |
+    Features.ProgramLounge |
+    Features.ProgramTV |
+    Features.MassageHeadStep |
+    Features.MassageFootStep |
+    Features.MassageHeadStep |
+    Features.MassageFootStep |
+    Features.MassageMode |
+    Features.MassageToggle |
+    Features.UnderBedLightsToggle |
+    Features.ProgramMemory1 |
+    Features.ProgramMemory2 |
+    Features.MotorHead |
+    Features.MotorFeet,
   BVRM:
     Features.PresetFlat |
     Features.PresetAntiSnore |
