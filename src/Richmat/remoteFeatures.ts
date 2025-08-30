@@ -27,8 +27,6 @@ export const remoteFeatures: Dictionary<number> = {
     Features.ProgramTV |
     Features.MassageHeadStep |
     Features.MassageFootStep |
-    Features.MassageHeadStep |
-    Features.MassageFootStep |
     Features.MassageMode |
     Features.MassageToggle |
     Features.UnderBedLightsToggle |
